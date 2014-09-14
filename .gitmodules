@@ -7,3 +7,6 @@
 [submodule "cookbooks/yum"]
 	path = cookbooks/yum
 	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "shared/source"]
+	path = shared/source
+	url = https://github.com/itspoma/raspberry-python-tennis-monitoring-src.git
